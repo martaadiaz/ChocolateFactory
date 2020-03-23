@@ -3,6 +3,7 @@ package chocolateFactory.db.pojos;
 import java.io.Serializable;
 
 	public class Chocolate implements Serializable{
+	
 	private static final long serialVersionUID = -4281575077333973070L;
 	
 	private Integer ID_C;
