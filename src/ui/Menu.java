@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package ui;
 
 import java.io.BufferedReader;
@@ -75,3 +76,5 @@ public class Menu {
 			
 		}
 }
+=======
+>>>>>>> branch 'master' of https://github.com/martaadiaz/ChocolateFactory
